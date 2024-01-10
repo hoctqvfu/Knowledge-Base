@@ -1,7 +1,7 @@
 # Cài đặt Zimbra mailserver trên CentOS 7
 
 ### 1. Chuẩn bị
-
+- Minimum of 8GB of RAM is required
 - Thiết lập các bản ghi cần thiết cho việc gửi nhận mail
 
 ![](./images/records.png)
